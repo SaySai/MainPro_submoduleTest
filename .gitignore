@@ -39,6 +39,3 @@ captures/
 # Keystore files
 *.jks
 
-libs/
-SubPro1_submoduleTest/
-SubPro2_submoduleTest/
