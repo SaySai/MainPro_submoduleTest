@@ -40,3 +40,5 @@ captures/
 *.jks
 
 libs/
+SubPro1_submoduleTest/
+SubPro2_submoduleTest/
